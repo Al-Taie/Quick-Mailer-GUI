@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="arabic">translations/arabic.qm</file>
+        <file alias="logo">icons/logo.jpg</file>
+        <file alias="menu">icons/menu.svg</file>
+        <file alias="sad">icons/sad.svg</file>
+        <file alias="smile">icons/smile.svg</file>
+        <file alias="clear">icons/clear.svg</file>
+        <file alias="clearlist">icons/clearlist.svg</file>
+        <file alias="copy">icons/copy.svg</file>
+        <file alias="cut">icons/cut.svg</file>
+        <file alias="paste">icons/paste.svg</file>
+        <file alias="info">icons/info.svg</file>
+        <file alias="settings">icons/settings.svg</file>
+        <file alias="myfont">fonts/fontello.ttf</file>
+        <file alias="opentext">icons/opentext.svg</file>
+        <file alias="quit">icons/quit.svg</file>
+        <file alias="true">icons/true.svg</file>
+        <file alias="send">icons/send.svg</file>
+        <file alias="file">icons/attach_file.svg</file>
+        <file alias="image">icons/add_photo.svg</file>
+        <file alias="audio">icons/audio.svg</file>
+        <file alias="left">icons/left.svg</file>
+        <file alias="right">icons/right.svg</file>
+        <file alias="cancel">icons/clear-white.svg</file>
+        <file alias="splash">images/splash.png</file>
+        <file alias="share">icons/share.svg</file>
+        <file alias="minimize">icons/minimize.svg</file>
+        <file alias="fullscreen">icons/fullscreen.svg</file>
+    </qresource>
+</RCC>

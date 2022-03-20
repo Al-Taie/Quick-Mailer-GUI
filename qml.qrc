@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="splash">qml/Splash.qml</file>
+        <file alias="main">qml/main.qml</file>
+    </qresource>
+</RCC>
